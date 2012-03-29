@@ -1,0 +1,33 @@
+#
+#Mon Mar 26 08:35:33 PDT 2012
+settings.use_custom_as_editor=true
+settings.restore_on_trace_update=false
+settings.line_numbers_visible=true
+settings.window.width=816.0
+settings.window.y=235.0
+settings.always_on_top=false
+settings.font.name=Courier New
+settings.flashlog.max_num_lines_enabled=false
+settings.window.x=1878.0
+settings.enable_code_popups=true
+settings.update.last=1332771556326
+settings.update.autoupdates=true
+settings.new_features_shown3.91=false
+settings.refresh_freq=500
+search.keywords=.|||chrisrubio|||
+settings.flashlog.max_num_lines=50000
+settings.custom_as_editor="C\:\\Program Files\\FlashDevelop\\FlashDevelop.exe" "%file%" -line %line%
+settings.highlight_all=true
+settings.flashlog.utf=true
+settings.log_type=0
+settings.flashlog.filename=C\:\\Users\\mahmed\\AppData\\Roaming\\Macromedia\\Flash Player\\Logs\\flashlog.txt
+settings.search_panel_visible=true
+settings.font.color=-16777216
+settings.flashlog.vizzy_trace_enabled=false
+settings.text_area.color=-1
+settings.enable_trace_click=true
+settings.font.size=12
+settings.flashlog.highlights=1||Error\: ||-14336|||2||Warning\: ||-256
+settings.flashlog.word_wrap=true
+settings.window.height=796.0
+settings.flashlog.auto_refresh=true
